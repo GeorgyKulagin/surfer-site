@@ -1,0 +1,170 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\000031}}
+.left {
+  text-align: left; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\000035}}
+.right {
+  text-align: right; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\000039}}
+.center {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000316}}
+.justify {
+  text-align: justify; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000320}}
+.hidden-sm {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000332}}
+.container {
+  width: 90%;
+  margin-right: auto;
+  margin-left: auto; }
+  @media only screen and (min-width: 33.75em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000332}}
+    .container {
+      width: 80%; } }
+  @media only screen and (min-width: 60em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000332}}
+    .container {
+      max-width: 1200px; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000346}}
+.row {
+  width: 100%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000350}}
+.row--centered {
+  align-items: center; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000354}}
+.row [class^="col"] {
+  min-height: 0.125rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000358}}
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12 {
+  width: 98%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000373}}
+.col-1-sm {
+  width: 6.3333333333%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000374}}
+.col-2-sm {
+  width: 14.6666666667%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000375}}
+.col-3-sm {
+  width: 23%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000376}}
+.col-4-sm {
+  width: 31.3333333333%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000377}}
+.col-5-sm {
+  width: 39.6666666667%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000378}}
+.col-6-sm {
+  width: 48%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000379}}
+.col-7-sm {
+  width: 56.3333333333%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000380}}
+.col-8-sm {
+  width: 64.6666666667%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000381}}
+.col-9-sm {
+  width: 73%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000382}}
+.col-10-sm {
+  width: 81.3333333333%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000383}}
+.col-11-sm {
+  width: 89.6666666667%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000384}}
+.col-12-sm {
+  width: 98%; }
+
+@media only screen and (min-width: 45em) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000387}}
+  .row {
+    display: flex;
+    justify-content: space-between; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000391}}
+  .col-1 {
+    width: 6.3333333333%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000392}}
+  .col-2 {
+    width: 14.6666666667%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000393}}
+  .col-3 {
+    width: 23%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000394}}
+  .col-4 {
+    width: 31.3333333333%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000395}}
+  .col-5 {
+    width: 39.6666666667%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000396}}
+  .col-6 {
+    width: 48%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000397}}
+  .col-7 {
+    width: 56.3333333333%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000398}}
+  .col-8 {
+    width: 64.6666666667%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\0000399}}
+  .col-9 {
+    width: 73%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\00003100}}
+  .col-10 {
+    width: 81.3333333333%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\00003101}}
+  .col-11 {
+    width: 89.6666666667%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\00003102}}
+  .col-12 {
+    width: 98%; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/Student\/Desktop\/first_flexbox_site-main\/surfer-site\/assets\/scss\/_grid\.scss}line{font-family:\00003104}}
+  .hidden-sm {
+    display: block; } }
+
+/*# sourceMappingURL=style.css.map */
